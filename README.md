@@ -1,5 +1,5 @@
 # Hacktoberfest-2018
-A repository for beginners to create their first Pull Request. 
+A repository for beginners to create their first Pull Request. i am doing such a great job. may god bless me.
 
 Just open index.html and include your name and the link to your github profile in the "li" tags to make a connection with all other open enthusiasts like us.
 
@@ -15,6 +15,7 @@ All of your suggestions are welcome!!
 [derNiklaas](https://twitter.com/derNiklaas)
 [Ezekiel Oladejo](https://twitter.com/iamwebwiz)
 [Deepanshu Gandhi](#)
+[Aakanksha Sharma](https://github.com/1aakanksha)
 
 
 
